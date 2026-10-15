@@ -49,6 +49,7 @@ wandb/
 mlruns/
 *.pt
 *.pth
+.venv/
 *.onnx
 *.safetensors
 *.bin
